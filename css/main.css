@@ -312,6 +312,11 @@ textarea {
 .main_col{
     margin-top: 20px;
 }
+/*Skill Style*/
+.skil_item{
+  width: 90px;
+  margin: 40px 20px;
+}
 
 /*Contact Style*/
 .mail_acc{
